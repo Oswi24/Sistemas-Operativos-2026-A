@@ -2,10 +2,15 @@
 
 **Tecnológico de Estudios Superiores del Oriente de México**  
 **INTEGRANTES:** 
+
 Hernandez Sanchez Christopher Oswaldo  
+
 Salgado Aguilar Johan Raciel
+
 Gonzalez Blanco Brian Ruben
+
 **Grupo:** 6S11  
+
 **Profesor:** Gustavo Moises Romero Gonzalez  
 
 
