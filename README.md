@@ -1,7 +1,10 @@
 # Servidor NGINX/PHP
 
 **Tecnológico de Estudios Superiores del Oriente de México**  
-**Autores:** Salgado Aguilar Johan Raciel, Gonzalez Blanco Brian Ruben, Hernandez Sanchez Christopher Oswaldo  
+**INTEGRANTES:** 
+Hernandez Sanchez Christopher Oswaldo  
+Salgado Aguilar Johan Raciel
+Gonzalez Blanco Brian Ruben
 **Grupo:** 6S11  
 **Profesor:** Gustavo Moises Romero Gonzalez  
 
